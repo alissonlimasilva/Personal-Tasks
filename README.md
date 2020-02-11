@@ -9,6 +9,12 @@ Mobile => React-Native
 
 Para colocar backend em produção foi usado o serviço Cloud Functions do Firebase
 
+## FRONTEND
+
+Aplicativo está totalmente funcional e produção, no repositório segue o apk caso queiram instalar para verificar.
+
+## BACKEND
+
 ### TAREFAS
 + **POST** - /task/add
 
