@@ -11,7 +11,7 @@ Para colocar backend em produção foi usado o serviço Cloud Functions do Fireb
 
 ## FRONTEND
 
-Aplicativo está totalmente funcional e produção, no repositório segue o apk caso queiram instalar para verificar.
+Aplicativo está totalmente funcional e  produção, no repositório segue o apk caso queiram instalar para verificar.
 
 ## BACKEND
 
